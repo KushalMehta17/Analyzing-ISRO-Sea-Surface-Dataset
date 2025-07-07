@@ -6,24 +6,33 @@ The project's goal was to contribute to ISRO's research in analysing and visuali
 
 ## What We Did
 1. Data Extraction & Preprocessing
+
 Used latitude and longitude slicing to isolate the North Pacific subregion.
 Extracted variables such as:
+
 -> Sea Level Anomaly (SLA)
+
 -> Sea Surface Temperature (SST)
+
 -> Salinity
 
-This preprocessing allowed for clean, consistent, and reproducible analysis.
+  This preprocessing allowed for clean, consistent, and reproducible analysis.
 
 2. Visualization of Spatio-Temporal Trends
-Created temporal line plots to track sea level and temperature trends over time (1993–2022), for the North Pacific, as well as Global trends.
+   
+  Created temporal line plots to track sea level and temperature trends over time (1993–2022), for the North Pacific, as well as Global trends.
 
-3. Interpretation & Environmental Inference
+4. Interpretation & Environmental Inference
+   
 Interpreted visual data to identify:
+
 -> Gradual rise in sea levels over time.
+
 -> Strong links between rising SST and corresponding SLA increases.
+
 -> Periodic variations linked to monsoons and ENSO (El Niño–Southern Oscillation) effects.
 
-These observations were supported by climate science literature and real-world ocean behavior, validating the analysis.
+These observations were supported by climate science literature and real-world ocean behaviour, validating the analysis.
 
 Please refer to the Jupyter Notebook and Results section to know more!
 
