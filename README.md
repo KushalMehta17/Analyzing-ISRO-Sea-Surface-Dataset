@@ -7,7 +7,7 @@ The project's goal was to contribute to ISRO's research in analysing and visuali
 ## What We Did
 1. <ins>Data Extraction & Preprocessing</ins>
 
-Used latitude and <ins>longitude</ins> slicing to isolate the North Pacific subregion.
+Used latitude and longitude slicing to isolate the North Pacific subregion.
 Extracted variables such as:
 
 -> Sea Level Anomaly (SLA)
@@ -18,11 +18,11 @@ Extracted variables such as:
 
   This preprocessing allowed for clean, consistent, and reproducible analysis.
 
-2. Visualization of Spatio-Temporal Trends
+2. <ins>Visualization of Spatio-Temporal Trends</ins>
    
   Created temporal line plots to track sea level and temperature trends over time (1993–2022), for the North Pacific, as well as Global trends.
 
-4. Interpretation & Environmental Inference
+3. <ins>Interpretation & Environmental Inference</ins>
    
 Interpreted visual data to identify:
 
