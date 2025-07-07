@@ -2,12 +2,12 @@
 
 This project explores Sea Level Rise trends in the North Pacific Oceanic Region using a **satellite-based dataset** provided by **ISRO (Indian Space Research Organisation)**, thanks to Dr. Neeraj Agarwal to give us this opportunity. The dataset spans 30 years (1993–2022) and was provided in NetCDF (.nc) format under the name ALL_MONTHLY_SLA_1993-2022.nc. (Since the dataset is huge, I couldn't attach it here)
 
-The project's goal was to contribute to ISRO's research in analysing and visualizing trends, how sea levels have changed over time in the region, and identify key environmental parameters influencing this trend, such as Sea Surface Temperature (SST), Salinity, and Ice Melt Indicator.
+The project's goal was to contribute to ISRO's research in analysing and visualizing trends on how sea levels have changed over time in the region, and identify key environmental parameters influencing this trend, such as Sea Surface Temperature (SST), Salinity, and Ice Melt Indicator.
 
 ## What We Did
-1. Data Extraction & Preprocessing
+1. <ins>Data Extraction & Preprocessing</ins>
 
-Used latitude and longitude slicing to isolate the North Pacific subregion.
+Used latitude and <ins>longitude</ins> slicing to isolate the North Pacific subregion.
 Extracted variables such as:
 
 -> Sea Level Anomaly (SLA)
